@@ -250,7 +250,7 @@
         "thumbnail",
         "watermark"
       ],
-      "time": "2018-05-29T14:19:03+00:00"
+      "time": ""
     },
     {
       "name": "psr/http-message",
